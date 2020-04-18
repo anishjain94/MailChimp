@@ -74,3 +74,5 @@ app.post('/', function (req, res) {
 // 020b30c71ebdf61a77e546b5c4eaf691-us19
 //ID
 // 791f9f88ed 
+
+// git remote add origin 'https://github.com/anishjain94/MailChimp'
